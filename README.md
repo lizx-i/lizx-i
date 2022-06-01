@@ -19,15 +19,15 @@
 
 <h2 align="left"><img src="https://github.com/lizx-i/lizx-i/blob/main/icons8-chevron-right-48.png" height=30px>Technical Skills</h2>
 <p align="center">
-<img src="https://img.shields.io/badge/HTML5-61e2a9?style=for-the-badge&logo=html5&logoColor=white" height=27>
-<img src="https://img.shields.io/badge/CSS3-61e2a9?style=for-the-badge&logo=css3&logoColor=white" height=27>
-<img src="https://img.shields.io/badge/JavaScript-61e2a9?style=for-the-badge&logo=javascript&logoColor=white" height=27>
-<img src="https://img.shields.io/badge/MongoDB-61e2a9?style=for-the-badge&logo=nodedotjs&logoColor=white" height=27>
-<img src="https://img.shields.io/badge/Express.js-61e2a9?style=for-the-badge&logo=react&logoColor=white" height=27>
-<img src="https://img.shields.io/badge/React.js-61e2a9?style=for-the-badge&logo=express&logoColor=white" height=27>
-<img src="https://img.shields.io/badge/Node.js-61e2a9?style=for-the-badge&logo=mongodb&logoColor=white" height=27>
-<img src="https://img.shields.io/badge/jQuery-61e2a9?style=for-the-badge&logo=jquery&logoColor=white" height=27>
-<img src="https://img.shields.io/badge/GIT-61e2a9?style=for-the-badge&logo=git&logoColor=white" height=27>
+<img src="https://img.shields.io/badge/HTML5-61e2a9?style=for-the-badge&logo=html5&logoColor=white" height=30>
+<img src="https://img.shields.io/badge/CSS3-61e2a9?style=for-the-badge&logo=css3&logoColor=white" height=30>
+<img src="https://img.shields.io/badge/JavaScript-61e2a9?style=for-the-badge&logo=javascript&logoColor=white" height=30>
+<img src="https://img.shields.io/badge/MongoDB-61e2a9?style=for-the-badge&logo=nodedotjs&logoColor=white" height=30>
+<img src="https://img.shields.io/badge/Express.js-61e2a9?style=for-the-badge&logo=react&logoColor=white" height=30>
+<img src="https://img.shields.io/badge/React.js-61e2a9?style=for-the-badge&logo=express&logoColor=white" height=30>
+<img src="https://img.shields.io/badge/Node.js-61e2a9?style=for-the-badge&logo=mongodb&logoColor=white" height=30>
+<img src="https://img.shields.io/badge/jQuery-61e2a9?style=for-the-badge&logo=jquery&logoColor=white" height=30>
+<img src="https://img.shields.io/badge/GIT-61e2a9?style=for-the-badge&logo=git&logoColor=white" height=30>
 </p>
 
 
