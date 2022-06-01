@@ -80,10 +80,10 @@
 <table>
 <tr>
 <td width="50%">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=lizx-i&hide_border=true&background=FFFFFF00&fire=61e2a9&currStreakLabel=20BE9D&ring=20BE9D&currStreakNum=61e2a9&sideNums=20BE9D&sideLabels=61e2a9&dates=999c9e&stroke=E0E0E04E">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=lizx-i&hide_border=true&background=FFFFFF00&fire=61e2a9&currStreakLabel=20BE9D&ring=20BE9D&currStreakNum=61e2a9&sideNums=20BE9D&sideLabels=61e2a9&dates=999c9e&stroke=5253524E">
 </td>
 <td width="50%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=lizx-i&bg_color=FFFFFF00&hide_border=true&text_color=005da8&title_color=61e2a9&include_all_commits=true&count_private=true">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=lizx-i&bg_color=FFFFFF00&hide_border=true&text_color=20BE9D&title_color=61e2a9&include_all_commits=true&count_private=true">
 </table>
 </div>
 <img src="https://activity-graph.herokuapp.com/graph?username=lizx-i&bg_color=FFFFFF00&color=61e2a9&line=20BE9D&point=525352&hide_border=true&title_color=">
