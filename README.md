@@ -1,5 +1,11 @@
-![alt text](<iframe src="https://giphy.com/embed/e2Usl6PUrbUDsrFGUm" width="480" height="144" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/e2Usl6PUrbUDsrFGUm">via GIPHY</a></p>)
 
+
+<p align="center">
+<a href="https://twitter.com/lizx_i"><img src="https://img.shields.io/badge/@lizx__i-B4F8C8?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
+<a href="mailto:eoiruafemi@gmail.com"><img src="https://img.shields.io/badge/eoiruafemi@gmail.com-B4F8C8?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+<a href="https://www.linkedin.com/in/eiruafemi/"><img src="https://img.shields.io/badge/elizabeth_iruafemi-B4F8C8?style=for-the-badge&logo=linkedin&logoColor=white_" height=25></a>
+<a href=""><img src="https://img.shields.io/badge/Download_Resume-B4F8C8?style=for-the-badge&logo=googledrive&logoColor=white" height=25></a>
+</p>
 
 
 <p align="center">
