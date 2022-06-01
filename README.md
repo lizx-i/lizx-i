@@ -1,4 +1,4 @@
-
+![alt text](https://github.com/lizx-i/lizx-i/blob/main/Light%20Grey%20Minimalist%20Fashion%20Designer%20LinkedIn%20Banner.gif)
 
 <p align="center">
 <a href="https://twitter.com/lizx_i"><img src="https://img.shields.io/badge/@lizx__i-61e2a9?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
@@ -7,10 +7,10 @@
 <a href=""><img src="https://img.shields.io/badge/Download_Resume-61e2a9?style=for-the-badge&logo=googledrive&logoColor=white" height=25></a>
 </p>
 
-
 <p align="center">
     Greetings, my name is Elizabeth or Liz. I am a software engineer who is intrigued and motivated by finding solutions to problems with code. I am currently building with JavaScript and I am open to clients or any other opportunities. 🤍
 </p>
+
 
 
 
