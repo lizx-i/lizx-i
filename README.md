@@ -59,22 +59,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <h2 align="left"><img src="https://github.com/lizx-i/lizx-i/blob/main/icons8-chevron-right-48.png" height=30px>Metrics & Analytics</h2>
 <div align="center">
 <table>
@@ -86,7 +70,7 @@
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=lizx-i&bg_color=FFFFFF00&hide_border=true&text_color=20BE9D&title_color=61e2a9&include_all_commits=true&count_private=true">
 </table>
 </div>
-<img src="https://activity-graph.herokuapp.com/graph?username=lizx-i&bg_color=FFFFFF00&color=61e2a9&line=20BE9D&point=525352&hide_border=true&title_color=">
+<img src="https://activity-graph.herokuapp.com/graph?username=lizx-i&bg_color=FFFFFF00&color=61e2a9&line=20BE9D&point=999c9e&hide_border=true&title_color=">
 
 
 <h2 align="left"><img src="https://github.com/lizx-i/lizx-i/blob/main/icons8-chevron-right-48.png" height=30px>Technical Skills</h2>
