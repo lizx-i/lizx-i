@@ -19,12 +19,12 @@
 <h3 align="center" color="white">Simply Doughtnuts</h3>
 <div align="center" >  
 <a href='https://simplydoughnuts.netlify.app/'>
-<img src="" alt="Donughtnut" height="322px" width="100%" />
+<img src="https://github.com/lizx-i/lizx-i/blob/main/sd.gif" alt="Donughtnut" height="322px" width="100%" />
 </a>
 <br>
 <br>
 <p>
-<a href="" target="_blank">
+<a href="https://simplydoughnuts.netlify.app/" target="_blank">
 <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
 </a>  
 <a href="https://simplydoughnuts.netlify.app/" target="_blank">
