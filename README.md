@@ -17,9 +17,9 @@
 <tr>
 <td width="50%">
 <h3 align="center" color="white">Simply Doughtnuts</h3>
-<div align="center" >  
-<a href='https://simplydoughnuts.netlify.app/'>
-<img src="https://github.com/lizx-i/lizx-i/blob/main/sd.gif" alt="Donughtnut" height="322px" width="100%" />
+<div align="center">  
+<a href='https://simplydoughnuts.netlify.app/' target=_"blank">
+<img src="https://github.com/lizx-i/lizx-i/blob/main/sd.gif" alt="Donughtnut" height="250px" width="100%" />
 </a>
 <br>
 <br>
@@ -40,12 +40,12 @@
 <h3 align="center" color="white">Go Pantry</h3>
 <div align="center" >  
 <a href='https://gopantry.netlify.app/'>
-<img src="" alt="Pantry" height="322px" width="100%" />
+<img src="" alt="Pantry" height="250px" width="100%" />
 </a>
 <br>
 <br>
 <p>
-<a href="" target="_blank">
+<a href="https://github.com/lizx-i/gopantry" target="_blank">
 <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
 </a>  
 <a href="https://gopantry.netlify.app/" target="_blank">
