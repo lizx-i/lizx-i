@@ -19,7 +19,7 @@
 <h3 align="center" color="white">Simply Doughtnuts</h3>
 <div align="center">  
 <a href='https://simplydoughnuts.netlify.app/' target=_"blank">
-<img src="https://github.com/lizx-i/lizx-i/blob/main/sd.gif" alt="Donughtnut" height="250px" width="100%" />
+<img src="https://github.com/lizx-i/lizx-i/blob/main/sd.gif" alt="Donughtnut" height="50%"/>
 </a>
 <br>
 <br>
@@ -40,7 +40,7 @@
 <h3 align="center" color="white">Go Pantry</h3>
 <div align="center" >  
 <a href='https://gopantry.netlify.app/'>
-<img src="https://github.com/lizx-i/lizx-i/blob/main/gp.gif" alt="Pantry" height="250px" width="100%" />
+<img src="https://github.com/lizx-i/lizx-i/blob/main/gp.gif" alt="Pantry" height="50%"/>
 </a>
 <br>
 <br>
