@@ -24,7 +24,7 @@
 <br>
 <br>
 <p>
-<a href="https://simplydoughnuts.netlify.app/" target="_blank">
+<a href="https://github.com/lizx-i/simplydoughnuts" target="_blank">
 <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
 </a>  
 <a href="https://simplydoughnuts.netlify.app/" target="_blank">
