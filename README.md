@@ -25,10 +25,10 @@
 <br>
 <p>
 <a href="https://github.com/lizx-i/simplydoughnuts" target="_blank">
-<img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github" height="25px"/>
 </a>  
 <a href="https://simplydoughnuts.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=61e2a9"/>
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=61e2a9" height="25px"/>
 </a>
 </p>
 <p><strong>JavaScript, CSS3, HTML5</strong> — A vanilla JavaScript, responsive application for a local doughnut cafe.</p>
@@ -46,10 +46,10 @@
 <br>
 <p>
 <a href="https://github.com/lizx-i/gopantry" target="_blank">
-<img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github" height="25px"/>
 </a>  
 <a href="https://gopantry.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=61e2a9"/>
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=61e2a9" height="25px"/>
 </a>
 </p>
 <p><strong>JavaScript, CSS3, HTML5</strong> — A reponsive e-commerce virtual grocery store application with multiple webpages.</p>
