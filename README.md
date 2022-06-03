@@ -1,4 +1,4 @@
-![alt="https://github.com/lizx-i/lizx-i/blob/main/IMG_6786.PNG"](https://github.com/lizx-i/lizx-i/blob/main/Light%20Grey%20Minimalist%20Fashion%20Designer%20LinkedIn%20Banner.gif)
+<img src="https://github.com/lizx-i/lizx-i/blob/main/Light%20Grey%20Minimalist%20Fashion%20Designer%20LinkedIn%20Banner.gif" alt="https://github.com/lizx-i/lizx-i/blob/main/IMG_6786.PNG"/>
 
 <p align="center">
 <a href="https://twitter.com/lizx_i"><img src="https://img.shields.io/badge/@lizx__i-61e2a9?&style=for-the-badge&logo=twitter&logoColor=white" height=27 target="_blank"></a>
